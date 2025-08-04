@@ -80,9 +80,3 @@ java -cp bin application.Main "0,0;5,true" "0,1;3,true" "0,2;0,false" ...
 ## Autor
 
 Wallace Candido Maia Sousa
-
----
-
-## Licença
-
-Projeto para fins educacionais. Use à vontade!
